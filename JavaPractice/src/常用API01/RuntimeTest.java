@@ -1,4 +1,4 @@
-package 常用API;
+package 常用API01;
 
 public class RuntimeTest {
     public static void main(String[] args) {

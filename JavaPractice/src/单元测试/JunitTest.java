@@ -3,8 +3,9 @@ package 单元测试;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.Test;
+import org.junit.BeforeClass;
+import org.junit.jupiter.api.Test;
+
 
 public class JunitTest {
     public static void main(String[] args) {
